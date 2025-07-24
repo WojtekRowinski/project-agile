@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 **As**  
-Customer
+Your Role
 
 **I need**  
-working feature
+Funcionality 
 
 **to**  
-insert a card
+Result description
 
 **Acceptance Criteria**  
 Given - initial requirements 
